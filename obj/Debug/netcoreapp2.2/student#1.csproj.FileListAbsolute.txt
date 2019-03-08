@@ -1,0 +1,11 @@
+/Users/HunterMetts/workspace/backendWorkspace/student#1/obj/Debug/netcoreapp2.2/student#1.csprojAssemblyReference.cache
+/Users/HunterMetts/workspace/backendWorkspace/student#1/obj/Debug/netcoreapp2.2/student#1.csproj.CoreCompileInputs.cache
+/Users/HunterMetts/workspace/backendWorkspace/student#1/obj/Debug/netcoreapp2.2/student#1.AssemblyInfoInputs.cache
+/Users/HunterMetts/workspace/backendWorkspace/student#1/obj/Debug/netcoreapp2.2/student#1.AssemblyInfo.cs
+/Users/HunterMetts/workspace/backendWorkspace/student#1/bin/Debug/netcoreapp2.2/student#1.deps.json
+/Users/HunterMetts/workspace/backendWorkspace/student#1/bin/Debug/netcoreapp2.2/student#1.runtimeconfig.json
+/Users/HunterMetts/workspace/backendWorkspace/student#1/bin/Debug/netcoreapp2.2/student#1.runtimeconfig.dev.json
+/Users/HunterMetts/workspace/backendWorkspace/student#1/bin/Debug/netcoreapp2.2/student#1.dll
+/Users/HunterMetts/workspace/backendWorkspace/student#1/bin/Debug/netcoreapp2.2/student#1.pdb
+/Users/HunterMetts/workspace/backendWorkspace/student#1/obj/Debug/netcoreapp2.2/student#1.dll
+/Users/HunterMetts/workspace/backendWorkspace/student#1/obj/Debug/netcoreapp2.2/student#1.pdb
