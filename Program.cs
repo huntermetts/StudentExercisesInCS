@@ -66,6 +66,8 @@ namespace Students
 
             // Assigning the exercise to the entire cohort
             cohort28Instructor.AssignExercise(cohort28sExercise, cohort28);
+            cohort29Instructor.AssignExercise(myFirstExercise, cohort29);
+            cohort30Instructor.AssignExercise(cohort30sExercise, cohort30);
         }
     }
 }
