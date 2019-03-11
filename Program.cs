@@ -68,6 +68,31 @@ namespace Students
             cohort28Instructor.AssignExercise(cohort28sExercise, cohort28);
             cohort29Instructor.AssignExercise(myFirstExercise, cohort29);
             cohort30Instructor.AssignExercise(cohort30sExercise, cohort30);
+
+            //
+            List <string> studentName = new List<string>();
+            studentName.Add(cohort28Student.FirstName + " is working on his " + cohort28sExercise.ExerciseName);
+            studentName.Add(cohort29Student.FirstName + " is working on his " + myFirstExercise.ExerciseName);
+            studentName.Add(cohort30Student.FirstName + " is working on his " +  cohort30sExercise.ExerciseName);
+            studentName.Add(cohort29StudentNumber2.FirstName + " is working on his " +  myFirstExercise.ExerciseName);
+            foreach (string student in studentName){
+                Console.WriteLine(student);
+            }
+
+            // List <string> studentExercises = new List<string>();
+            // studentExercises.Add(myFirstExercise.ExerciseName);
+            // studentExercises.Add(cohort28sExercise.ExerciseName);
+            // studentExercises.Add(cohort30sExercise.ExerciseName);
+            // studentExercises.Add(cohort32sExercise.ExerciseName);
+            // foreach (string exercise in studentExercises){
+            //     Console.WriteLine(exercise);
+            // }
+
+            // var list = new List<Tuple<string, string>>();
+            // list.Add(new Tuple<string, string>(cohort29Student.FirstName,myFirstExercise.ExerciseName));
+            // list.Add(new Tuple<string, string>(cohort28Student.FirstName,cohort28sExercise.ExerciseName));
+            // list.Add(new Tuple<string, string>(cohort30Student.FirstName,cohort30sExercise.ExerciseName));
+            // list.Add(new Tuple<string, string>(cohort29StudentNumber2.FirstName,myFirstExercise.ExerciseName));
         }
     }
 }

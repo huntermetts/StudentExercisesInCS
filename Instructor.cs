@@ -11,16 +11,17 @@ namespace Students
                 Slack = slack;
                 InstructorCohort = instructorCohort;
             }
-
             public string FirstName {get; set;}
             public string LastName {get; set;}
             public string Slack {get; set;}
             public string InstructorCohort {get; set;}
 
+
     // Method to assign an excercise to a student
             public void AssignExercise(Exercise exerciseObject, Cohort cohortObject){
                 foreach (Student student in cohortObject.StudentList){
                     student.ExerciseList.Add(exerciseObject);
+                     Console.WriteLine($"{student.FirstName} + test");
                 }
             }
         }
